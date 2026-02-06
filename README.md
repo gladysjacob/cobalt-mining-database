@@ -1,0 +1,1 @@
+# cobalt-mining-database
