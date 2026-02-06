@@ -1,0 +1,21 @@
+# IDE
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# Build
+bin/
+target/
+*.class
+
+# Database credentials
+**/DatabaseConnection.java
+
+# Large data files (optional - if CSVs are huge)
+data/raw/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
