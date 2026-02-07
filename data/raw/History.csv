@@ -1,0 +1,74 @@
+OID *,Site_ID *,Ftr_ID *,Ftr_Name,Last_Updt,Status,StatDetail,Year_From,Year_To,Ref_Detail,Ref_ID,Remarks
+1,AK00012,-1111,Bornite Project,6/7/2018,Exploration,"Kennecott (BCMC) completed 181 core holes totaling 48,729 m.",1957,1997,Page 6-22,Davis and others (2016),<Null>
+2,AK00012,-1111,Bornite Project,6/7/2018,Evaluation,"Evaluation with an intensive soil, stream, and rock chip geochemical sampling program",1995,1997,Page 6-20,Davis and others (2016),<Null>
+3,AK00012,-1111,Bornite Project,6/7/2018,Development,Sank exploration shaft,1966,1966,Page 6-20,Davis and others (2016),<Null>
+4,AK00012,-1111,Bornite Project,6/7/2018,Discovery,Discovered outcropping mineralization along Ruby Creek (Bornite) on the north side of the Cosmos Hills.,1947,1947,Page 6-20,Davis and others (2016),<Null>
+5,AK00012,-1111,Bornite Project,6/7/2018,Exploration,NovaGold performed exploration through magnetic and radiometric surveys,2006,2015,Page 9-46 to 9-48,Davis and others (2016),<Null>
+6,AK00012,-1111,Bornite Project,6/7/2018,Evaluation,Aeromagnetic survey completed by the Alaska Department of Natural Resources and Geometries,1974,1975,Page 6-21,Davis and others (2016),<Null>
+7,AK00205,-1111,Bohemia Basin,4/16/2018,Discovery,Sulphide-bearing bodies discovered,1921,1921,Page 118,Reed and Dorr (1942),<Null>
+8,AK00207,Mo00737,Brady Glacier,4/16/2018,Exploration,Sampling and drilling,1958,1961,Pages 81-82,Cornwall (1971),<Null>
+9,AK00207,Mo00737,Brady Glacier,4/16/2018,Discovery,Massive and disseminated nickel-copper sulfides discovered,1958,1958,Page 79,Cornwall (1971),<Null>
+10,CA00070,Mo00761,Pine Flat,4/23/2018,Evaluation,Phase 1 of feasibility study completed,1986,1986,Page 103,Benson (1963),<Null>
+11,CA00070,Mo00761,Pine Flat,4/23/2018,Exploration,Sampling and exploration,1954,1958,Page 2,Benson (1963),<Null>
+12,CA00070,Mo00761,Pine Flat,4/23/2018,Discovery,Nickel-bearing laterites discovered,1954,1954,Page 2,Benson (1963),<Null>
+13,CA00071,Mo00775,Gasquet,6/22/2018,Evaluation,Kaiser estimated annual ore production of 1.32 million tons would be required to generate 2 million pounds of cobalt per year.,1982,1982,Page 171,US OTA (1985),<Null>
+14,ID00005,Mf00284,Blackbird Mine,5/9/2018,Active,Intermittent production from various mines on the site,1893,1981,Pages 2-1 and 2-2,EPA (2003),<Null>
+15,ID00005,Mf00284,Blackbird Mine,5/9/2018,Inactive,Operations suspended and underground activities ceased,1982,1982,Page 2-2,EPA (2003),<Null>
+16,ID00005,Mf00284,Blackbird Mine,5/9/2018,Inactive,Cleanup action and Superfund Site status,1995,1995,<Null>,EPA (2003),<Null>
+17,ID00005,Mo00628,Blackbird,5/9/2018,Discovery,Cobalt discovered,1901,1901,Page 1,Vhay (1947),<Null>
+18,ID00005,Mo00628,Blackbird,5/9/2018,Discovery,Prospected for gold and copper,1899,1902,Page 1,Vhay (1947),<Null>
+19,ID00050,-1111,Idaho Cobalt Project,4/4/2018,Exploration,Geochemical sampling and drilling,1995,2017,Page 34,Foo and others (2017),<Null>
+20,ID00050,-1111,Idaho Cobalt Project,4/4/2018,Discovery,Cobalt discovered in the area,1892,1892,Page 34,Foo and others (2017),<Null>
+21,ID00051,-1111,Iron Creek,4/19/2018,Intermittent Exploration,Intermittent exploration surveys and drilling,1970,1996,Pages 12-15,Cullen (2016),<Null>
+22,ID00051,Mo00751,"Iron Creek, No Name Zone",4/19/2018,Discovery,Copper stain discovered in No Name Zone,1967,1967,Page 12,Cullen (2016),<Null>
+23,ID00051,Mo00751,"Iron Creek, No Name Zone",4/19/2018,Discovery,Iron discovered,1946,1946,Page 12,Cullen (2016),<Null>
+24,ID00052,Mo00738,Salmon Canyon,4/16/2018,Evaluation,Resource estimation by Behre Dolbear and company,1979,1979,Page 121,Johnson and others (1998),<Null>
+25,ME00002,Mo00770,Union,5/14/2018,Discovery,First described in 1908 by Bastin who made a study of the deposit while mapping the Rockland Quadrangle for the United States Geological Survey,1908,1908,Page 58,Houston (1956),<Null>
+26,ME00003,Mo00771,Warren,5/14/2018,Discovery,"Although the Warren deposit lies only 3 km southwest of the Harriman, it was not discovered until 1965 owing to the lack of exposure of mafic rocks near the ore body",1965,1965,Page 320,Rainville and Park (1976),<Null>
+27,MI00001,Mf00280,Eagle Mine,4/4/2018,Active,Production,2014,2017,Page 6-4,Clow and others (2017),Mine was still in production at time of publication
+28,MI00001,Mf00280,Eagle Mine,4/4/2018,Development,Construction of underground mine,2010,2014,Page 6-3,Clow and others (2017),<Null>
+29,MI00001,Mo00362,Eagle,4/4/2018,Discovery,Anomalous sulphur and copper contents found,1976,1976,Page 6-2,Clow and others (2017),<Null>
+30,MI00001,Mo00362,Eagle,4/4/2018,Exploration,Drilling,2000,2008,Page 6-3,Clow and others (2017),<Null>
+31,MI00001,Mo00363,Eagle East,4/4/2018,Discovery,Discovered in an undrilled area approximately 960 m deep,2015,2015,Page 6-3,Clow and others (2017),<Null>
+32,MN00002,Mo00746,NorthMet,4/16/2018,Exploration,Drilling,1969,1974,Page 40,Black and others (2018),<Null>
+33,MN00002,Mo00746,NorthMet,4/16/2018,Exploration,Intermittent Drilling,1991,2010,Page 54,Black and others (2018),<Null>
+34,MN00002,Mo00746,NorthMet,4/16/2018,Discovery,Discovered in 1969,1969,1969,Page 40,Black and others (2018),<Null>
+35,MN00003,Mo00719,Birch Lake,4/13/2018,Intermittent Exploration,Drilling,1988,2012,Page 6-3,Barber and others (2014),<Null>
+36,MN00003,Mo00719,Birch Lake,4/13/2018,Discovery,2 m of PGE mineralization discovered,1985,1985,Page 6-2,Barber and others (2014),<Null>
+37,MN00003,Mo00720,Maturi Southwest,4/13/2018,Intermittent Exploration,Drilling and underground exploration,1967,2014,Page 6-2,Barber and others (2014),<Null>
+38,MN00003,Mo00721,Maturi,4/13/2018,Intermittent Exploration,Drilling and underground exploration,1967,2014,Page 6-2,Barber and others (2014),<Null>
+39,MN00003,Mo00722,Spruce Road,4/13/2018,Intermittent Exploration,"Geologic mapping, sampling, and drilling",1951,2000,Page 6-5,Barber and others (2014),<Null>
+40,MN00003,Mo00722,Spruce Road,4/13/2018,Discovery,Discovery of disseminated sulfide mineralization,1951,1951,Page 6-5,Barber and others (2014),<Null>
+41,MN00008,-1111,Tamarack,4/16/2018,Intermittent Exploration,Drilling,2002,2017,Pages 58-59,Fletcher and others (2018),<Null>
+42,MN00008,-1111,Tamarack,4/16/2018,Exploration,Airborne MEGATEM and magnetic survey; Ground EM and gravity surveys,2001,2001,Page 58,Fletcher and others (2018),<Null>
+43,MN00008,-1111,Tamarack,4/16/2018,Exploration,High-resolution airborne magnetic survey,1972,1984,Page 58,Fletcher and others (2018),<Null>
+44,MO00002,Mo00774,Higdon,6/22/2018,Exploration,Exploration drilling completed under the contract revealed a large deposit(s) on the northeast flank of the main high. ,1954,1954,Page 10,Knox and Amos (1959),<Null>
+45,MO00013,Mf00285,Madison Mine,5/9/2018,Inactive,Operations ceased,1961,1961,Page 1,Brooke (1981),<Null>
+46,MO00013,Mf00285,Madison Mine,5/9/2018,Active,Intermittent production,1844,1961,Page 1,Brooke (1981),<Null>
+47,MO00013,Mo00559,Madison,5/9/2018,Exploration,Drilling and metallurgical tests,1978,1978,Page 2,Brooke (1981),<Null>
+48,MO00014,Mo00560,Boss-Bixby,5/10/2018,Discovery,Discovery of large copper-iron mineral deposit announced,1964,1964,Page 2,Smith (1968),<Null>
+49,MO00014,Mo00560,Boss-Bixby,5/10/2018,Exploration,Exploratory drilling,1956,1956,Page 2,Smith (1968),<Null>
+50,MO00014,Mo00560,Boss-Bixby,5/10/2018,Exploration,Magnetic anomaly discovered by Missouri Geological Survey,1943,1943,Page 1,Smith (1968),<Null>
+51,MT00002,-1111,Black Butte,4/20/2018,Intermittent Exploration,Intermittent drilling and exploration,1977,1995,Pages 6-3 and 6-4,Winckers and others (2013),<Null>
+52,MT00002,-1111,Black Butte,5/8/2018,Exploration,Detailed compilation of available geologic mapping data,2011,2011,Page 9-1,Winckers and others (2013),<Null>
+53,MT00002,-1111,Black Butte,4/20/2018,Exploration,Shaft sunk and exploration,1910,1922,Page 6-1,Winckers and others (2013),<Null>
+54,MT00002,-1111,Black Butte,5/8/2018,Exploration,Airborne magnetics and resistivity survey,2012,2012,Page 9-2,Winckers and others (2013),<Null>
+55,MT00002,-1111,Black Butte,4/20/2018,Discovery,Copper-stained quartzite documented,1894,1894,Page 6-1,Winckers and others (2013),<Null>
+56,MT00002,-1111,Black Butte,5/8/2018,Exploration,Conducted soil sampling program and compiled historical geochemical data,2011,2011,Page 9-1,Winckers and others (2013),<Null>
+57,NM00041,Mf00579,Black Hawk Mine,5/14/2018,Discovery,"In 1881 float of high-grade silver was found at the Alhambr mine, and subsequent prospecting soon resulted in the discovery of the Black Hawk, Rose, Silver King, Good Hope and other deposits",1881,1881,Page 286,Gillerman and Whitebread (1956),<Null>
+58,NM00041,Mf00579,Black Hawk Mine,5/14/2018,Intermittent Exploration,"Mining began in the district in 1881 with the discovery of the unique silver nickel cobalt deposit at the Alhambra mine; Mining continued until 1893, when a decline silver price and depletion of rich silver ore caused the mines to close",1881,1960,Page 154,McLemore (1996),<Null>
+59,NM00042,Mr00154,Black Hawk District,5/18/2018,Intermittent Exploration,"Mining began in the district in 1881 with the discovery of the unique silver nickel cobalt deposit at the Alhambra mine; Mining continued until 1893, when a decline silver price and depletion of rich silver ore caused the mines to close",1881,1960,Page 154,McLemore (1996),<Null>
+60,OR00001,Mo00748,Turner,4/18/2018,Evaluation,Drilling and resulting resource definition,1981,1981,Page 6-1,Marek and others (2010),<Null>
+61,OR00001,Mo00748,Turner,4/18/2018,Discovery,Mineralization originally located in the late 1800's,1890,1890,Page 6-1,Marek and others (2010),<Null>
+62,OR00001,Mo00748,Turner,4/18/2018,Exploration,Drilling,1982,1989,Pages 6-1 and 6-2,Marek and others (2010),<Null>
+63,OR00001,Mo00748,Turner,4/18/2018,Exploration,Sporadic exploration and limited development,1890,1930,Page 6-1,Marek and others (2010),<Null>
+64,OR00001,Mo00748,Turner,4/18/2018,Exploration,"Sulfide exploration targeting, drilling, and geophysical surveys",1950,1975,Page 6-1,Marek and others (2010),<Null>
+65,OR00002,Mo00561,Eight Dollar Mountain,5/10/2018,Exploration,"Intermittent exploration including discovery pits, drilling, sampling, and mapping",1942,1976,Page 28,Hull (1978),<Null>
+66,OR00005,Mf00577,Nickel Mountain Mine,4/27/2018,Inactive,Mine closed,1984,1984,<Null>,<Null>,<Null>
+67,OR00005,Mf00577,Nickel Mountain Mine,4/27/2018,Active,Intermittent production,1954,1984,<Null>,<Null>,<Null>
+68,OR00005,Mo00767,Nickel Mountain,4/27/2018,Discovery,Deposit discovered by sheepherders,1864,1864,Page 206,Pecora and Hobbs (1942),<Null>
+69,PA00001,Mf00574,Cornwall Mine,4/18/2018,Inactive,Mine no longer in operation,1974,2018,Page 422,Rose and others (1985),<Null>
+70,PA00001,Mf00574,Cornwall Mine,4/18/2018,Active,Production,1732,1973,Page 422,Rose and others (1985),<Null>
+71,PA00001,Mo00749,Cornwall,4/18/2018,Discovery,Western orebody discovered,1732,1732,Page 422,Rose and others (1985),<Null>
+72,TN00001,Mr00037,Ducktown District,5/11/2018,Active,Intermittent production,1847,1968,Page 210,Magee (1968),Year_To is date of publication
+73,TN00001,Mr00037,Ducktown District,5/11/2018,Discovery,Native copper discovered,1843,1843,Page 209,Magee (1968),<Null>

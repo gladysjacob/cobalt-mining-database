@@ -1,0 +1,63 @@
+OBJECTID *,Site_ID *,Ftr_ID *,Ftr_Name,Last_Updt,DpMd_NoNm,Ref_Detail,DpMd_RefID,GEM_Name,GEM_RefID,Remarks
+1,AK00012,Mo00550,Ruby Creek Zone,6/12/2018,32c - Kipushi Cu-Pb-Zn,Page 227,Cox and Bernstein (1986),Unclassified,<Null>,<Null>
+2,AK00012,Mo00571,South Reef Zone,6/12/2018,32c - Kipushi Cu-Pb-Zn,Page 227,Cox and Bernstein (1986),Unclassified,<Null>,<Null>
+3,AK00205,Mo00729,West Tripod Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+4,AK00205,Mo00730,East Tripod Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+5,AK00205,Mo00731,Tunnel Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+6,AK00205,Mo00732,Side Hill Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+7,AK00205,Mo00733,North Muskeg Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+8,AK00205,Mo00734,South Muskeg Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+9,AK00205,Mo00735,North Takanis Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+10,AK00205,Mo00736,South Takanis Body,4/16/2018,Synorogenic-synvolcanic Ni-Cu,<Null>,Reed and Dorr (1942),Magmatic Sulfides,du Bray (1995),<Null>
+11,AK00207,Mo00737,Brady Glacier,4/16/2018,Massive Ni-Cu sulfide,Page 78,Cornwall (1971),Magmatic Sulfides,du Bray (1995),<Null>
+12,CA00070,Mo00761,Pine Flat,4/23/2018,38a - Lateritic Ni,Page 1,Benson (1963),Unclassified,<Null>,<Null>
+13,CA00071,Mo00775,Gasquet,6/22/2018,38a - Lateritic Ni,Page 252,Cox and Singer (1986); Marsh and others (2013),<Null>,<Null>,<Null>
+14,ID00005,Mo00628,Blackbird,5/8/2018,Shear zone hosted Cu-Co-Au,Page 16,Vhay (1947),<Null>,<Null>,<Null>
+15,ID00005,Mo00628,Blackbird,5/8/2018,Iron oxide-copper-gold,Page 275,Slack (2006),<Null>,<Null>,<Null>
+16,ID00005,Mo00628,Blackbird,5/8/2018,Syn-sedimentary Cu-Co-Au,Page 99,Nash and Connor (1993),<Null>,<Null>,<Null>
+17,ID00050,Mo00716,Ram,5/8/2018,Shear zone hosted Cu-Co-Au,Page 16,Vhay (1947),<Null>,<Null>,<Null>
+18,ID00050,Mo00716,Ram,5/8/2018,Syn-sedimentary Cu-Co-Au,Page 99,Nash and Connor (1993),<Null>,<Null>,<Null>
+19,ID00050,Mo00716,Ram,5/8/2018,Iron oxide-copper-gold,Page 275,Slack (2006),<Null>,<Null>,<Null>
+20,ID00050,Mo00717,Sunshine,5/8/2018,Syn-sedimentary Cu-Co-Au,Page 99,Nash and Connor (1993),<Null>,<Null>,<Null>
+21,ID00050,Mo00717,Sunshine,5/8/2018,Shear zone hosted Cu-Co-Au,Page 16,Vhay (1947),<Null>,<Null>,<Null>
+22,ID00050,Mo00717,Sunshine,5/8/2018,Iron oxide-copper-gold,Page 275,Slack (2006),<Null>,<Null>,<Null>
+23,ID00051,Mo00751,No Name Zone,5/8/2018,Iron oxide-copper-gold,Page 275,Slack (2006),<Null>,<Null>,<Null>
+24,ID00051,Mo00751,No Name Zone,5/8/2018,Shear zone hosted Cu-Co-Au,Page 16,Vhay (1947),<Null>,<Null>,<Null>
+25,ID00051,Mo00751,No Name Zone,5/8/2018,Syn-sedimentary Cu-Co-Au,Page 16,Nash (1989),<Null>,<Null>,<Null>
+26,ID00052,Mo00738,Salmon Canyon,4/16/2018,24d - Blackbird Co-Cu,<Null>,Nold (1990),Blackbird Co-Cu,du Bray (1995),<Null>
+27,ME00002,Mo00770,Union,5/11/2018,7a - Synorogenic-synvolcanic Ni-Cu,Page 38,Schulz and others (2014),Magmatic Sulfides,Foose and others (1995),<Null>
+28,ME00003,Mo00771,Warren,5/11/2018,7a - Synorogenic-synvolcanic Ni-Cu,Page 38,Schulz and others (2014),Magmatic Sulfides,Foose and others (1995),<Null>
+29,MI00001,Mo00362,Eagle,4/4/2018,Conduit-type Ni-Cu-PGE ,Page 8-3,Clow and others (2017),Magmatic Sulfides,du Bray (1995),<Null>
+30,MI00001,Mo00363,Eagle East,4/4/2018,Conduit-type Ni-Cu-PGE ,Page 8-3,Clow and others (2017),Magmatic Sulfides,du Bray (1995),<Null>
+31,MN00002,Mo00746,NorthMet,4/16/2018,Contact-type magmatic Ni-Cu-PGE,Page 51,Black and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+32,MN00003,Mo00719,Birch Lake,4/13/2018,Contact-type magmatic Ni-Cu-PGE,Page 8-1,Barber and others (2014),<Null>,<Null>,<Null>
+33,MN00003,Mo00720,Maturi Southwest,4/13/2018,Contact-type magmatic Ni-Cu-PGE,Page 8-1,Barber and others (2014),<Null>,<Null>,<Null>
+34,MN00003,Mo00721,Maturi,4/13/2018,Contact-type magmatic Ni-Cu-PGE,Page 8-1,Barber and others (2014),<Null>,<Null>,<Null>
+35,MN00003,Mo00722,Spruce Road,4/13/2018,Contact-type magmatic Ni-Cu-PGE,Page 8-1,Barber and others (2014),<Null>,<Null>,<Null>
+36,MN00008,Mo00739,164 Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+37,MN00008,Mo00740,138 Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+38,MN00008,Mo00741,SMSU Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+39,MN00008,Mo00742,MSU Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+40,MN00008,Mo00743,CGO Bend Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+41,MN00008,Mo00744,480 Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+42,MN00008,Mo00745,221 Zone,4/16/2018,Conduit-type Ni-Cu-PGE ,Page 84,Fletcher and others (2018),Magmatic Sulfides,du Bray (1995),<Null>
+43,MO00002,Mo00774,Higdon,6/22/2018,Southeast Missouri Pb-Zn,Page 220-221,Briskey (1986); Leach and others (2010),Mississippi Valley Type Pb-Zn,Leach and others (1995),<Null>
+44,MO00013,Mo00559,Madison,5/10/2018,Mississippi Valley-type,Page 1,Brooke (1981),Mississippi Valley Type Pb-Zn,du Bray (1995),<Null>
+45,MO00014,Mo00560,Boss-Bixby,5/10/2018,Iron oxide-copper-gold,Page 154,Nold and others (2014),Unclassified,<Null>,<Null>
+46,MT00002,Mo00754,Johnny Lee Upper Zone,4/20/2018,Shale-hosted massive sulfide,Page 8-1,Winckers and others (2013),<Null>,<Null>,<Null>
+47,MT00002,Mo00755,Johnny Lee Lower Zone,4/20/2018,Shale-hosted massive sulfide,Page 8-1,Winckers and others (2013),<Null>,<Null>,<Null>
+48,MT00002,Mo00756,Lowry Middle Zone,4/20/2018,Shale-hosted massive sulfide,Page 8-1,Winckers and others (2013),<Null>,<Null>,<Null>
+49,NC00001,Mr00047,Webster District,5/14/2018,38a - Lateritic Ni,Page 375,U.S. Geological Survey and U.S. Bureau of Mines (1968),Unclassified,<Null>,<Null>
+50,NM00041,Mo00773,Black Hawk ,5/11/2018,Five-element Veins,Page 351,Hitzman and others (2017),Unclassified,<Null>,<Null>
+51,OR00001,Mo00748,Turner,4/18/2018,"Volcanogenic massive sulfide, Cyprus model",Page 8-1,Marek and others (2010),Volcanic Hosted Massive Sulfides,du Bray (1995),<Null>
+52,OR00002,Mo00561,Eight Dollar Mountain,5/10/2018,38a - Lateritic Ni,Page 28,Hull (1978),Unclassified,<Null>,<Null>
+53,OR00005,Mo00767,Nickel Mountain,4/27/2018,38a - Lateritic Ni,Pate 1653,Cumberlidge and Chace (1968),Unclassified,<Null>,<Null>
+54,PA00001,Mo00749,Cornwall,4/18/2018,Fe skarn,Page 73,Lapham (1968),Fe Skarns,du Bray (1995),<Null>
+55,PR00001,Mo00629,Guanajibo,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+56,PR00002,Mo00630,Punta Guanajibo,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+57,PR00003,Mo00631,Las Mesas,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+58,PR00004,Mo00632,North deposit,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+59,PR00004,Mo00633,South deposit,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+60,PR00005,Mo00634,West deposit,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+61,PR00005,Mo00635,East deposit,7/17/2018,Nickel-Cobalt Laterites,Page 10,Marsh and others (2013),<Null>,<Null>,<Null>
+62,TN00001,Mr00037,Ducktown District,5/11/2018,Massive sulfide,Page 13,U.S. Geological Survey and U.S. Bureau of Mines (1968),<Null>,<Null>,<Null>

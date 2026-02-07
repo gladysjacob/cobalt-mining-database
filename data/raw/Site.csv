@@ -1,0 +1,38 @@
+OBJECTID *,Site_ID *,Site_Name,Other_Name,Last_Updt,Commodity,MinReg_ID,Remarks,Approx_Lon,Approx_Lat,Loc_Pt,Loc_Poly,GeolMinOcc,Resources,Production,History,Dep_Model,Descr_Sum
+1,AK00012,Bornite Project,<Null>,6/6/2018,copper; cobalt,Mr00061,<Null>,-156.944535,67.063593,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2,AK00017,Ambler District,<Null>,6/21/2018,cobalt; copper,Mr00061,<Null>,-156.150351,67.137811,Yes,Yes,No,No,No,No,No,No
+3,AK00205,Bohemia Basin,<Null>,4/16/2018,cobalt; nickel; copper,Mr00144,<Null>,-136.428,57.98,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+4,AK00206,Chichagof District,<Null>,4/13/2018,cobalt; nickel; copper,Mr00144,<Null>,-135.199,57.614,Yes,Yes,No,No,No,No,No,No
+5,AK00207,Brady Glacier,<Null>,4/16/2018,cobalt; nickel; copper,<Null>,<Null>,-136.932,58.552,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+6,CA00070,Pine Flat,<Null>,4/23/2018,cobalt; nickel,<Null>,<Null>,-123.994,41.991,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+7,CA00071,Gasquet,Gasquet Laterite; Gasquet Mountain,6/21/2018,cobalt; nickel; chromium,<Null>,<Null>,-123.996,41.869,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+8,ID00005,Blackbird,<Null>,5/8/2018,cobalt; copper; gold; silver,Mr00145,<Null>,-114.343,45.117,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+9,ID00050,Idaho Cobalt Project,Ram; Sunshine; Blackbird,5/8/2018,cobalt; gold; copper,Mr00145,<Null>,-114.362,45.139,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+10,ID00051,Iron Creek,<Null>,5/8/2018,copper; cobalt; iron,Mr00145,<Null>,-114.118,44.96,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+11,ID00052,Salmon Canyon,Copper Canyon,4/16/2018,copper; cobalt; gold; silver,<Null>,<Null>,-114.558,45.3,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+12,ID00054,Blackbird District,<Null>,4/16/2018,copper; cobalt; gold; silver; iron,Mr00145,<Null>,-114.308,45.107,Yes,Yes,No,No,No,No,No,No
+13,ME00002,Union,Harriman; Crawford Pond,5/11/2018,cobalt; nickel; copper,<Null>,<Null>,-69.241,44.199,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+14,ME00003,Warren,Area 5,5/11/2018,cobalt; nickel,<Null>,<Null>,-69.256,44.175,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+15,MI00001,Eagle,<Null>,4/17/2018,nickel; copper; cobalt; gold; silver; platinum; palladium,<Null>,<Null>,-87.889,46.747,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+16,MN00002,NorthMet,<Null>,4/16/2018,copper; nickel; platinum; palladium; gold; cobalt; silver,<Null>,<Null>,-91.97,47.62,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+17,MN00003,"Birch Lake, Maturi, Spruce Road, Teck’s Mesaba (Babbit)",Duluth Complex,4/11/2018,copper; nickel; platinum; palladium; gold; silver; cobalt,<Null>,<Null>,-91.74,47.784,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+18,MN00008,Tamarack,Tamarack North; Tamarack South,4/16/2018,nickel; copper; cobalt; platinum; palladium; gold,<Null>,<Null>,-93.116,46.685,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+19,MO00001,Fredericktown District,<Null>,5/10/2018,lead; copper; nickel cobalt; iron; silver,Mr00036,<Null>,-90.217,37.573,Yes,Yes,No,No,No,No,No,No
+20,MO00002,Higdon,<Null>,6/21/2018,cobalt; nickel; copper; zinc; lead,Mr00036,<Null>,-90.142,37.608,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+21,MO00013,Madison,Fredericktown,5/8/2018,lead; copper; nickel cobalt; iron; silver,Mr00036,<Null>,-90.276,37.546,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+22,MO00014,Boss-Bixby,<Null>,5/10/2018,copper; cobalt; iron,<Null>,<Null>,-91.17,37.666,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+23,MT00002,Black Butte,Sheep Creek,4/23/2018,cobalt; copper; gold; silver,Mr00148,<Null>,-110.894,46.775,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+24,MT00029,Smith River District,<Null>,4/19/2018,cobalt; copper; gold; silver,Mr00148,<Null>,-111.149,46.836,Yes,Yes,No,No,No,No,No,No
+25,NC00001,Webster District,<Null>,5/11/2018,nickel; cobalt,Mr00047,<Null>,-83.213,35.342,Yes,No,Yes,Yes,No,No,Yes,Yes
+26,NM00041,Black Hawk,<Null>,5/11/2018,cobalt; nickel; zinc; silver; copper; gold; uranium,Mr00154,<Null>,-108.501,32.725,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+27,NM00042,Black Hawk District,<Null>,5/18/2018,cobalt; nickel; zinc; silver; copper; gold; uranium,Mr00154,<Null>,-108.501,32.725,Yes,Yes,No,No,Yes,Yes,No,Yes
+28,OR00001,Turner,Turner-Albright; Mammoth,4/18/2018,gold; copper; silver; zinc; cobalt,<Null>,<Null>,-123.758,41.999,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+29,OR00002,Eight Dollar Mountain,<Null>,5/10/2018,nickel; cobalt; chromium,Mr00155,<Null>,-123.663,42.258,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+30,OR00005,Nickel Mountain,Riddle; Hanna,4/26/2018,cobalt; nickel,<Null>,<Null>,-123.437,42.963,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+31,PA00001,Cornwall,<Null>,4/19/2018,iron; copper; sulfur; cobalt; gold; silver,<Null>,<Null>,-76.411,40.267,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+32,PR00001,Guanajibo,<Null>,7/17/2018,cobalt; chromium; iron; nickel,<Null>,<Null>,-67.159816,18.136267,Yes,Yes,Yes,Yes,No,No,Yes,No
+33,PR00002,Punta Guanajibo,<Null>,7/17/2018,cobalt; chromium; iron; nickel,<Null>,<Null>,-67.178359,18.163555,Yes,Yes,Yes,Yes,No,No,Yes,No
+34,PR00003,Las Mesas,<Null>,7/17/2018,cobalt; chromium; iron; nickel,<Null>,<Null>,-67.109461,18.18632,Yes,Yes,Yes,Yes,No,No,Yes,No
+35,PR00004,Rosario Southeast group,<Null>,7/17/2018,cobalt; chromium; iron; nickel,<Null>,<Null>,-67.030763,18.167927,Yes,Yes,Yes,Yes,No,No,Yes,No
+36,PR00005,Maricao Southwest group,<Null>,7/17/2018,cobalt; chromium; iron; nickel,<Null>,<Null>,-66.985986,18.152549,Yes,Yes,Yes,Yes,No,No,Yes,No
+37,TN00001,Ducktown District,Ducktown Basin,5/11/2018,copper; cobalt; iron; zinc; lead; silver; gold,Mr00037,"Some mineralization extends into Fannin County, GA, and Cherokee County, NC",-84.383,35.049,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes

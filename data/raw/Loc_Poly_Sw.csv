@@ -1,0 +1,6 @@
+OBJECTID *,Shape *,Ftr_ID,Ftr_Name,Last_Updt,State,County,Loc_Date,Ref_Detail,Ref_ID,Remarks,Area_SqKm,Area_Acres
+1,Polygon,Sw00132,Surface workings,6/6/2018,AK,Northwest Arctic,2014,World Imagery,Esri World Imagery (2018),<Null>,<1,5
+2,Polygon,Sw00122,Surface workings,4/4/2018,ID,Lemhi,2016,World Imagery,Esri World Imagery (2018),<Null>,4,919
+3,Polygon,Sw00040,Surface workings,9/25/2017,MI,Marquette,2015,World Imagery,Esri World Imagery (2018),<Null>,<1,134
+4,Polygon,Sw00126,Surface workings,5/8/2018,MO,Madison,2016,World Imagery,Esri World Imagery (2018),<Null>,<1,181
+5,Polygon,Sw00125,Surface workings,4/27/2018,OR,Douglas,2016,World Imagery,Esri World Imagery (2018),<Null>,3,720

@@ -1,0 +1,50 @@
+OBJECTID *,Shape *,Site_ID,Ftr_ID,Ftr_Name,Last_Updt,Remarks,Area_SqKm,Area_Acres
+1,Polygon,AK00206,Mr00144,Chichagof District,4/13/2018,<Null>,10359,2559671
+2,Polygon,AK00017,Mr00061,Ambler District,6/21/2018,<Null>,9934,2454712
+3,Polygon,AK00012,Mo00550,Ruby Creek Zone,6/7/2018,<Null>,<1,247
+4,Polygon,AK00012,Mo00571,South Reef Zone,6/7/2018,<Null>,<1,185
+5,Polygon,AK00205,Mo00736,South Takanis Body,4/13/2018,<Null>,<1,2
+6,Polygon,AK00205,Mo00731,Tunnel Body,4/13/2018,<Null>,<1,1
+7,Polygon,AK00205,Mo00729,West Tripod Body,4/13/2018,<Null>,<1,<1
+8,Polygon,AK00205,Mo00734,South Muskeg Body,4/13/2018,<Null>,<1,<1
+9,Polygon,AK00205,Mo00733,North Muskeg Body,4/13/2018,<Null>,<1,<1
+10,Polygon,AK00205,Mo00732,Side Hill Body,4/13/2018,<Null>,<1,<1
+11,Polygon,AK00205,Mo00730,East Tripod Body,4/13/2018,<Null>,<1,<1
+12,Polygon,AK00205,Mo00735,North Takanis Body,4/13/2018,<Null>,<1,<1
+13,Polygon,CA00070,Mo00761,Pine Flat,4/23/2018,<Null>,<1,106
+14,Polygon,ID00054,Mr00145,Blackbird District,4/16/2018,<Null>,463,114366
+15,Polygon,ID00051,Mo00753,Jackass Zone,4/19/2018,<Null>,<1,177
+16,Polygon,ID00051,Mo00751,No Name Zone,4/19/2018,<Null>,<1,132
+17,Polygon,ID00050,Mo00716,Ram,4/3/2018,<Null>,<1,70
+18,Polygon,ID00051,Mo00752,Footwall No Name Zone,4/19/2018,<Null>,<1,26
+19,Polygon,ID00051,Mo00750,Sulfate Zone,4/19/2018,<Null>,<1,11
+20,Polygon,MI00001,Mo00363,Eagle East,8/31/2017,<Null>,<1,28
+21,Polygon,MI00001,Mo00362,Eagle,8/31/2017,<Null>,<1,12
+22,Polygon,MN00003,Mo00721,Maturi,4/10/2018,<Null>,9,2150
+23,Polygon,MN00003,Mo00719,Birch Lake,4/10/2018,<Null>,3,619
+24,Polygon,MN00002,Mo00746,NorthMet,4/16/2018,<Null>,2,486
+25,Polygon,MN00003,Mo00722,Spruce Road,4/10/2018,<Null>,2,422
+26,Polygon,MN00003,Mo00720,Maturi Southwest,4/10/2018,<Null>,1,262
+27,Polygon,MO00001,Mr00036,Fredericktown District,6/7/2018,<Null>,145,35752
+28,Polygon,MO00001,Mr00036,Fredericktown District,6/21/2018,<Null>,145,35752
+29,Polygon,MT00029,Mr00148,Smith River District,4/19/2018,<Null>,2166,535135
+30,Polygon,MT00002,Mo00754,Johnny Lee Upper Zone,4/19/2018,<Null>,<1,124
+31,Polygon,MT00002,Mo00755,Johnny Lee Lower Zone,4/19/2018,<Null>,<1,76
+32,Polygon,MT00002,Mo00758,Lowry Lower Zone,4/19/2018,<Null>,<1,68
+33,Polygon,MT00002,Mo00756,Lowry Middle Zone,4/19/2018,<Null>,<1,34
+34,Polygon,MT00002,Mo00757,Lowry 0/1 Zone,4/19/2018,<Null>,<1,20
+35,Polygon,MT00002,Mo00759,Lowry II Zone,4/19/2018,<Null>,<1,12
+36,Polygon,MT00002,Mo00760,Lowry Upper Zone,4/19/2018,<Null>,<1,6
+37,Polygon,NM00042,Mr00154,Black Hawk District,5/25/2018,<Null>,64,15762
+38,Polygon,OR00002,Mr00155,Eight Dollar Mountain District,6/26/2018,<Null>,5,1230
+39,Polygon,OR00005,Mo00767,Nickel Mountain,4/26/2018,<Null>,<1,204
+40,Polygon,OR00001,Mo00748,Turner,4/17/2018,<Null>,<1,<1
+41,Polygon,PA00001,Mo00749,Cornwall,4/18/2018,<Null>,<1,31
+42,Polygon,PR00001,Mo00629,Guanajibo,7/17/2018,<Null>,9,2335
+43,Polygon,PR00003,Mo00631,Las Mesas,7/17/2018,<Null>,5,1295
+44,Polygon,PR00004,Mo00632,North deposit,7/17/2018,<Null>,1,306
+45,Polygon,PR00005,Mo00634,West deposit,7/17/2018,<Null>,<1,228
+46,Polygon,PR00005,Mo00635,East deposit,7/17/2018,<Null>,<1,105
+47,Polygon,PR00004,Mo00633,South deposit,7/17/2018,<Null>,<1,78
+48,Polygon,PR00002,Mo00630,Punta Guanajibo,7/17/2018,<Null>,<1,71
+49,Polygon,TN00001,Mr00037,Ducktown District,5/11/2018,<Null>,179,44257
