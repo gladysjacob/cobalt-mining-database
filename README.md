@@ -460,7 +460,7 @@ This project is available for educational purposes. USGS data is public domain.
 
 Questions or feedback? Feel free to:
 - Open an issue on GitHub
-- Connect with me on [LinkedIn](www.linkedin.com/in/gladys-jacob)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gladys-jacob)
 - Email: mail2gladysj@gmail.com
 
 ---
