@@ -141,7 +141,7 @@ SHOW PROCEDURE STATUS WHERE Db = 'cobalt_mining';
    - File → Import
    - General → Existing Projects into Workspace
    - Click Next
-   - Browse to your cloned `cobalt-mining-investment-analysis` folder
+   - Browse to your cloned `cobalt-mining-database` folder
    - Click Finish
 
 3. **Eclipse will automatically compile all Java files** (creates `bin/` folder)
@@ -322,7 +322,7 @@ The database is normalized to Third Normal Form (3NF) across 25 tables:
 - Optimizes query performance
 - Enables flexible reporting and analysis
 
-For complete schema documentation, see [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md)
+For complete schema documentation, see [docs/PROJECT_DOCUMENTATION.md](docs/CobaltMiningDB_Documentation.pdf)
 
 ---
 
