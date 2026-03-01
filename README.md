@@ -9,12 +9,12 @@ A normalized relational database system for analyzing cobalt mining investment o
 This project transforms 11 CSV files from the USGS Cobalt Mining Database into a normalized 25-table relational database with a Java Swing GUI for investment opportunity analysis. The system enables filtering geological occurrences, analyzing resource estimates, and tracking production records across 37 mining sites.
 
 **Key Features:**
-- ✅ Normalized database design (3NF) reducing data redundancy across 25 tables
-- ✅ Custom MySQL stored procedures for automated data cleaning and geological filtering
-- ✅ Interactive Java Swing GUI with 4 analysis modules
-- ✅ Color-coded resource visualizations for investment potential assessment
-- ✅ Real-time dashboard analytics with sortable, searchable data tables
-- ✅ Complex SQL joins reconstructing original USGS data structure
+- Normalized database design (3NF) reducing data redundancy across 25 tables
+- Custom MySQL stored procedures for automated data cleaning and geological filtering
+- Interactive Java Swing GUI with 4 analysis modules
+- Color-coded resource visualizations for investment potential assessment
+- Real-time dashboard analytics with sortable, searchable data tables
+- Complex SQL joins reconstructing original USGS data structure
 
 ## 📊 Database Statistics
 
@@ -54,11 +54,11 @@ This project transforms 11 CSV files from the USGS Cobalt Mining Database into a
 ### Prerequisites
 
 Before you begin, ensure you have:
-- ✅ **Java JDK 17 or higher** - [Download here](https://www.oracle.com/java/technologies/downloads/)
-- ✅ **MySQL Server 8.0+** - [Download here](https://dev.mysql.com/downloads/mysql/)
-- ✅ **MySQL Workbench** (recommended) - [Download here](https://dev.mysql.com/downloads/workbench/)
-- ✅ **Eclipse IDE** - [Download here](https://www.eclipse.org/downloads/) (or IntelliJ/VS Code)
-- ✅ **MySQL Connector/J 8.0** - [Download here](https://dev.mysql.com/downloads/connector/j/)
+- **Java JDK 17 or higher** - [Download here](https://www.oracle.com/java/technologies/downloads/)
+- **MySQL Server 8.0+** - [Download here](https://dev.mysql.com/downloads/mysql/)
+- **MySQL Workbench** (recommended) - [Download here](https://dev.mysql.com/downloads/workbench/)
+- **Eclipse IDE** - [Download here](https://www.eclipse.org/downloads/) (or IntelliJ/VS Code)
+- **MySQL Connector/J 8.0** - [Download here](https://dev.mysql.com/downloads/connector/j/)
 
 ---
 
@@ -234,13 +234,13 @@ Explore the five main data views reconstructed from the normalized database:
 3. Data appears in sortable, scrollable table
 
 **Table Features:**
-- ✅ **Sortable Columns** - Click any header to sort (ascending/descending)
-- ✅ **Search Bar** - Type to filter across ALL columns in real-time
-- ✅ **Color Coding** (Resource Estimates table only):
-  - 🟢 **Dark Green:** High investment potential (>100,000)
-  - 🟢 **Light Green:** High values (>10,000)
-  - 🟡 **Light Yellow:** Medium values (>1,000)
-  - ⚪ **White:** Low values or missing data (<1,000)
+- **Sortable Columns** - Click any header to sort (ascending/descending)
+- **Search Bar** - Type to filter across ALL columns in real-time
+- **Color Coding** (Resource Estimates table only):
+  - **Dark Green:** High investment potential (>100,000)
+  - **Light Green:** High values (>10,000)
+  - **Light Yellow:** Medium values (>1,000)
+  - **White:** Low values or missing data (<1,000)
 - ✅ **Row Counter** - Shows total records at bottom
 
 **ℹ️ Help Button:**
@@ -376,7 +376,7 @@ See: [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md)
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Database Connection Errors
 
@@ -462,9 +462,3 @@ Questions or feedback? Feel free to:
 - Open an issue on GitHub
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gladys-jacob)
 - Email: mail2gladysj@gmail.com
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
----
